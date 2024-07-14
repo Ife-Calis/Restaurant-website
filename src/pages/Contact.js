@@ -19,7 +19,7 @@ const Contact = () => {
   return (
     <Layout>
       <Box sx={{ my: 5, ml: 10, "& h4": { fontWeight: "bold", mb: 2 } }}>
-        <Typography variant="h4">Contact My Resturant</Typography>
+        <Typography variant="h4">Contact My Restaurant</Typography>
         <p>
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Rem odio
           beatae ducimus magni nobis culpa praesentium velit expedita quae,
@@ -52,7 +52,7 @@ const Contact = () => {
             <TableBody>
               <TableRow>
                 <TableCell>
-                  <SupportAgentIcon sx={{ color: "red", pt: 1 }} /> 1800-00-0000
+                  <SupportAgentIcon sx={{ color: "red", pt: 1 }} /> 1880-00-0000
                   (tollfree)
                 </TableCell>
               </TableRow>
