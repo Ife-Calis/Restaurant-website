@@ -59,7 +59,7 @@ To set up the project locally, follow these steps:
 
 ## Contributing
 
-This project is a collaboration between Ifechukwu Anyika and Iwuoha Chioma. We welcome contributions from the community! To contribute, follow these steps:
+This project is a collaboration between Ifechukwu Anyika and Iwuoha Chioma Lynda. We welcome contributions from the community! To contribute, follow these steps:
 
 1. **Fork the repository.**
 2. **Create a new branch:**
