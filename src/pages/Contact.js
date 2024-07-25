@@ -21,10 +21,14 @@ const Contact = () => {
       <Box sx={{ my: 5, ml: 10, "& h4": { fontWeight: "bold", mb: 2 } }}>
         <Typography variant="h4">Contact My Restaurant</Typography>
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Rem odio
-          beatae ducimus magni nobis culpa praesentium velit expedita quae,
-          corrupti, pariatur inventore laboriosam consectetur modi impedit
-          error, repudiandae obcaecati doloribus.
+        At our restaurant, we believe in creating unforgettable dining experiences. Our team is dedicated to providing exceptional service and culinary delights that leave a lasting impression. We pride ourselves on a diverse menu crafted with the freshest ingredients by skilled chefs.
+  </p>
+  <br />
+  <p>
+    Customer satisfaction is our top priority. Whether you're here for a casual lunch, a romantic dinner, or a special celebration, we aim to exceed your expectations. Join us and enjoy the perfect blend of taste and ambiance. We look forward to serving you.
+  </p>
+  <br />
+  <p>
         </p>
       </Box>
       <Box

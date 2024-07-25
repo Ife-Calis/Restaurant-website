@@ -27,36 +27,32 @@ const About = () => {
         }}
       >
         <Typography variant="h4">Welcome To My Restaurant</Typography>
-        <p>
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fugiat quod,
-          suscipit, aperiam totam autem culpa cum eveniet dolorum quasi est
-          perspiciatis laborum. Nam recusandae nihil quia odio voluptatibus
-          facere omnis facilis rerum? Ab eum beatae nobis reiciendis, qui
-          temporibus aliquid, nesciunt velit sed quam recusandae necessitatibus,
-          tempora maxime. Repellendus incidunt, maxime labore dolorum eos
-          aperiam unde? At veritatis nesciunt eos quas cupiditate blanditiis est
-          quam maiores, amet, soluta exercitationem voluptatum, veniam
-          assumenda? Ratione perferendis officiis deserunt nostrum aspernatur
-          sed asperiores! Earum sunt placeat ducimus sint, deleniti amet esse
-          saepe voluptatem commodi laudantium quibusdam repellat nobis libero at
-          consectetur adipisci ipsa.
-        </p>
-        <br />
-        <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi,
-          deserunt libero reprehenderit cum sint fugit cumque temporibus modi
-          facere eveniet amet obcaecati ducimus harum velit maxime vel qui
-          voluptatibus quam odio corrupti saepe, voluptas dolorum quidem
-          tempore? Esse sapiente molestias minus enim quisquam dolorum eum culpa
-          ullam impedit velit quo, corporis ducimus numquam dignissimos
-          inventore maiores. Nam deleniti itaque nostrum neque dolorum dolores,
-          aliquam, voluptatum sapiente doloribus laborum perspiciatis ipsam, quo
-          ut nisi distinctio sunt nihil est blanditiis perferendis eveniet
-          nesciunt! Nostrum, voluptatum eveniet repellat vel officia deleniti
-          tempore voluptatibus perferendis esse eaque temporibus porro?
-          Aspernatur beatae deleniti illo autem!
-        </p>
-      </Box>
+  <p>
+    At our restaurant, we believe in crafting unforgettable dining experiences.
+    Our team is dedicated to delivering exceptional service and culinary delights
+    that leave a lasting impression. With a passion for hospitality and a commitment
+    to excellence, we strive to create an atmosphere that is both welcoming and sophisticated.
+  </p>
+  <br />
+  <p>
+    We take pride in our diverse menu, which features a blend of traditional and
+    contemporary dishes, prepared with the freshest ingredients. Our chefs are
+    skilled artisans who infuse each dish with creativity and flavor, ensuring a
+    memorable meal every time you visit.
+  </p>
+  <br />
+  <p>
+    Customer satisfaction is our top priority, and we are always ready to go the
+    extra mile to meet your needs. Whether you're here for a casual lunch, a romantic
+    dinner, or a special celebration, we aim to provide an experience that exceeds
+    your expectations.
+  </p>
+  <br />
+  <p>
+    Join us and indulge in the perfect harmony of taste and ambiance. We look forward
+    to serving you and making your time with us truly special.
+  </p>
+</Box>  
     </Layout>
   );
 };
